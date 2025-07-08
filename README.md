@@ -53,11 +53,13 @@ This project presents an Excel-based analysis of 1,465 Amazon product listings t
 
 ---
 
-
 ## Dashboard Preview
 
-!![Uploading AMAZON PROJECT REVEIW ANALYSIS.jpeg…]()
-[Amazon Dashboard](dashboard/amazon_dashboard.jpeg)
+![Amazon Dashboard](dashboard/amazon_dashboard.jpeg)
+
+![AMAZON PROJECT REVEIW ANALYSIS DASHBOARD (2)](https://github.com/user-attachments/assets/73e0fd06-78cb-4c97-ae27-a986a45ea9f4)
+
+---
 
 ## Summary
 
