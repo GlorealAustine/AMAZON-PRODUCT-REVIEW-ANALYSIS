@@ -53,6 +53,12 @@ This project presents an Excel-based analysis of 1,465 Amazon product listings t
 
 ---
 
+
+## Dashboard Preview
+
+!![Uploading AMAZON PROJECT REVEIW ANALYSIS.jpeg…]()
+[Amazon Dashboard](dashboard/amazon_dashboard.jpeg)
+
 ## Summary
 
 This analysis confirms that aggressive discounting does not compromise customer satisfaction. Insights from this Excel dashboard enable smarter pricing, product listing optimization, and targeted marketing based on actual product performance across categories.
@@ -61,7 +67,11 @@ This analysis confirms that aggressive discounting does not compromise customer 
 
 ## Author
 
-Augustine Glory Chinyere
-Email: glorealaustine@gmail.com
+---
+
+Augustine Glory Chinyere 
+
+Email: [glorealaustine@gmail.com](mailto:glorealaustine@gmail.com)
+
 
 
